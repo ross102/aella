@@ -1,0 +1,10 @@
+import axios from "axios";
+
+
+export default axios.create({
+    baseURL: 'https://swapi.dev/api',
+    headers: {
+        "Content-type": "application/json"
+      },
+    timeout: 35000
+})
