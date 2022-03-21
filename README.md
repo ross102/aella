@@ -20,8 +20,9 @@ in the `Src` folder there are 5 folders
 
 AppState - where the store is located.
 
-Components - This is where the resource ccomponent is located. It also has the shared components folder
-for the styled components , layout components and other components.
+Components - This is where the ccomponents are located. 
+It has the screen size folder for responsiveness and shared components folder
+for the styled components , layout components and other components 
 
 Features - For slice methods and  async thunks.
 
